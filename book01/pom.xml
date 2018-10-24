@@ -35,7 +35,7 @@
         <dependency>
             <groupId>com.zccoder</groupId>
             <artifactId>book01-ch00-basic</artifactId>
-            <version>${project.version}</version>
+            <version>1.0.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
