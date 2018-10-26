@@ -17,7 +17,7 @@
         <module>book01-ch02-safety</module>
         <module>book01-ch03-sharing</module>
         <module>book01-ch04-composing</module>
-        <!--<module>book01-ch05-block</module>-->
+        <module>book01-ch05-block</module>
         <!--<module>book01-ch06-task</module>-->
         <!--<module>book01-ch07-cancel</module>-->
         <!--<module>book01-ch08-pools</module>-->
