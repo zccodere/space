@@ -13,7 +13,7 @@
 
     <modules>
         <module>book02-ch02-start</module>
-        <!--<module>book02-ch03-basic</module>-->
+        <module>book02-ch03-basic</module>
         <!--<module>book02-ch04-object</module>-->
         <!--<module>book02-ch05-extend</module>-->
         <!--<module>book02-ch06-face</module>-->
